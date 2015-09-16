@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloPI1-2015-2</string>
+
+    <string name="hello_world">Hello PI1.2015</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_linear">LinearActivity</string>
+    <string name="username_textview">UserName</string>
+    <string name="action_close">Cerrar Sesión</string>
+
+</resources>
