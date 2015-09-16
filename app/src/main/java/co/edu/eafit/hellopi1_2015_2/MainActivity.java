@@ -19,7 +19,8 @@ public class MainActivity extends ActionBarActivity {
     public MainActivity(){
 
     }
-    
+
+    //Metodo de inicializacion
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
